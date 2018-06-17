@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Games Programing/Monogame/FlappyBird/FlappyBird/Content/ball.png</File>
+    <File>D:/Games Programing/Monogame/FlappyBird/FlappyBird/Content/Font/FlappyBirdFont.spritefont</File>
+    <File>D:/Games Programing/Monogame/FlappyBird/FlappyBird/Content/Backgrounds/BgDay.png</File>
+    <File>D:/Games Programing/Monogame/FlappyBird/FlappyBird/Content/Backgrounds/BgNight.png</File>
+    <File>D:/Games Programing/Monogame/FlappyBird/FlappyBird/Content/Sprite/FlappyBirdSprites.png</File>
+    <File>D:/Games Programing/Monogame/FlappyBird/FlappyBird/Content/Sounds/Dead.wav</File>
+    <File>D:/Games Programing/Monogame/FlappyBird/FlappyBird/Content/Sounds/Fly.wav</File>
+    <File>D:/Games Programing/Monogame/FlappyBird/FlappyBird/Content/Sounds/Ping.wav</File>
+    <File>D:/Games Programing/Monogame/FlappyBird/FlappyBird/Content/Font/FlappyBirdFont20.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
